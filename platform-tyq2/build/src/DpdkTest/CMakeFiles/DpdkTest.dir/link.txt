@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared -Wl,-soname,libDpdkTest.so -o libDpdkTest.so CMakeFiles/DpdkTest.dir/DpdkTest.c.o CMakeFiles/DpdkTest.dir/mydaqc.c.o   -L/root/dns/root/dpdk/x86_64-native-linuxapp-gcc/include  -Wl,-rpath,/root/dns/root/dpdk/x86_64-native-linuxapp-gcc/include -lpthread -lpcap -ldl 

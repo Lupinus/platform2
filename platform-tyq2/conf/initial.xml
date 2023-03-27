@@ -1,0 +1,5 @@
+<pcap_or_dpdk>pcap</pcap_or_dpdk>
+<!--1 for saving as pcap format file, others for not-->
+<save>1</save>
+<network_card_number>1</network_card_number>
+<network_card_name>ens36<network_card_name>

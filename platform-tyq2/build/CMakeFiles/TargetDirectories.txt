@@ -1,0 +1,16 @@
+/root/dns/root/platform-tyq2/build/CMakeFiles/edit_cache.dir
+/root/dns/root/platform-tyq2/build/CMakeFiles/rebuild_cache.dir
+/root/dns/root/platform-tyq2/build/apps/CMakeFiles/CaptureTest.dir
+/root/dns/root/platform-tyq2/build/apps/CMakeFiles/edit_cache.dir
+/root/dns/root/platform-tyq2/build/apps/CMakeFiles/rebuild_cache.dir
+/root/dns/root/platform-tyq2/build/src/CMakeFiles/edit_cache.dir
+/root/dns/root/platform-tyq2/build/src/CMakeFiles/rebuild_cache.dir
+/root/dns/root/platform-tyq2/build/src/CaptureDpdk/CMakeFiles/CaptureDpdk.dir
+/root/dns/root/platform-tyq2/build/src/CaptureDpdk/CMakeFiles/edit_cache.dir
+/root/dns/root/platform-tyq2/build/src/CaptureDpdk/CMakeFiles/rebuild_cache.dir
+/root/dns/root/platform-tyq2/build/src/DpdkTest/CMakeFiles/DpdkTest.dir
+/root/dns/root/platform-tyq2/build/src/DpdkTest/CMakeFiles/edit_cache.dir
+/root/dns/root/platform-tyq2/build/src/DpdkTest/CMakeFiles/rebuild_cache.dir
+/root/dns/root/platform-tyq2/build/src/PcapTest/CMakeFiles/PcapTest.dir
+/root/dns/root/platform-tyq2/build/src/PcapTest/CMakeFiles/edit_cache.dir
+/root/dns/root/platform-tyq2/build/src/PcapTest/CMakeFiles/rebuild_cache.dir

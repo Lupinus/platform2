@@ -1,0 +1,30 @@
+<document>
+	<coremask>
+		<elem>-c</elem>
+		<value>ffff</value>
+	</coremask>
+	<Num of memory channel>
+		<elem>-n</elem>
+		<value>4</value>
+	</Num of memory channel>
+	<break>
+		<elem>--</elem>
+		<value></value>
+	</break>
+	<portmask>
+		<elem>-p</elem>
+		<value>f</value>
+	</portmask>
+	<core start Number>
+		<elem>-S</elem>
+		<value>3</value>
+	</core start Number>	
+	<thread for dpdk_ring mode    1: one thread   2: thread num equals to ring Number>
+		<elem>-m</elem>
+		<value>1</value>
+	</thread for dpdk_ring mode>
+	<portcard queue number mode   1: read json   2: queue num equals to ring Number>
+		<elem>-M</elem>
+		<value>1</value>
+	</thread for dpdk_ring mode>
+</document>

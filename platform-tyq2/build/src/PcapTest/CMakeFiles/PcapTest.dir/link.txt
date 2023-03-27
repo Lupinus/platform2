@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared -Wl,-soname,libPcapTest.so -o libPcapTest.so CMakeFiles/PcapTest.dir/pcapTest.c.o  -lpthread -lpcap 

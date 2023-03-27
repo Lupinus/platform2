@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/CaptureTest.dir/CaptureTest.c.o -o CaptureTest   -L/root/dns/root/dpdk/x86_64-native-linuxapp-gcc/include  -Wl,-rpath,/root/dns/root/dpdk/x86_64-native-linuxapp-gcc/include:/root/dns/root/platform-tyq2/build/src/DpdkTest:/root/dns/root/platform-tyq2/build/src/PcapTest ../src/DpdkTest/libDpdkTest.so ../src/PcapTest/libPcapTest.so -ldl -lpthread -lpcap 

@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "dlfcn.h": "c",
+        "tools.h": "c",
+        "testpmd.h": "c",
+        "inet.h": "c",
+        "stdbool.h": "c",
+        "mydaqc.h": "c",
+        "shmdata.h": "c"
+    }
+}
